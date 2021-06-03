@@ -11,14 +11,14 @@
 <br>
 <br>
 
-#Olá 👋🏼,
+# Olá 👋🏼,
 me chamo **Lara Capila**, sou de Belo Horizonte, Brasil, estou me qualificando para ser uma **Desenvolvedora Full Stack Jr** 🚀.
 
 **Meus interesses pessoais:**
 <img align="right" alt="GIF" src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="400px" />
 
 - 📚 Atualmente estou estudando front-end com **ReactJS**, uma biblioteca **JavaScript**;
--  🧠 Aprendendo a testar meu projetos React com o **React Testing Library**;
+-  🧠 Aprendendo gerenciamento de estado com **Redux**;
 - 🔎 Em busca constante por conhecimento para evolir minha carreira como Dev;
 - 📫 Por favor, envie um e-mail para **laracapilak@gmail.com** para me encontrar;
 
@@ -29,7 +29,6 @@ me chamo **Lara Capila**, sou de Belo Horizonte, Brasil, estou me qualificando p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </p>
 
 <p>
