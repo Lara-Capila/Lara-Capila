@@ -5,7 +5,7 @@ me chamo **Lara Capila**, sou de Belo Horizonte, :brazil:, estou me qualificando
 <img align="right" alt="GIF" src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="400px" />
 
 - 📚 Atualmente estou estudando front-end com **ReactJS**, uma biblioteca **JavaScript**;
--  🧠 Aprendendo gerenciamento de estado com **Redux**;
+-  🧠 Aprendendo gerenciamento de estado com **Context API**;
 - 🔎 Em busca constante por conhecimento para evolir minha carreira como Dev;
 
 ## Entre em contato
