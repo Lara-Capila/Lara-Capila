@@ -3,20 +3,19 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="400px" />
 
 - :brazil: Sou de Belo Horizonte
-- 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a>
+- 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
 - 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
 - 🧠 Iniciando os estudos com **React Native**;
 - 🔎 Busca constante por conhecimento;
 
 ### Entre em contato
 <a href="https://www.instagram.com/lara.capila/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="35px" >
-</a> 
-<a href="https://www.linkedin.com/in/lara-capila/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="35px" >
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
+<a href="https://www.linkedin.com/in/lara-capila/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 <br>
- 📫 Para me encontrar via email basta entrar em contato através do endereço laracapilak@gmail.com.
 
 ### Linguagens e Ferramentas
 <p align="left">
