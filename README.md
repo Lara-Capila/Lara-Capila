@@ -1,4 +1,4 @@
-### Olá, sou **Lara**, Desenvolvedora, Estudante.
+### Olá, sou **Lara**, Desenvolvedora Front End.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="400px" />
 
