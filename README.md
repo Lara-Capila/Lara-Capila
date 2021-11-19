@@ -5,7 +5,7 @@
 - :brazil: Sou de Belo Horizonte
 - 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
 - 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
-- 🧠 Iniciando os estudos com **React Native**;
+- 🧠 Iniciando os estudos com **TypeScript**;
 - 🔎 Busca constante por conhecimento;
 
 ### Entre em contato
