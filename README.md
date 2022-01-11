@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="400px" />
 
 - :brazil: Sou de Belo Horizonte
+- 👩🏽‍💻 Desenvovledora Front End na Way2 Technology;
 - 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
-- 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
 - 🧠 Iniciando os estudos com **TypeScript**;
 - 🔎 Busca constante por conhecimento;
 
