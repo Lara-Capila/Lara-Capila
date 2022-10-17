@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Front End
 
-Após ser demitida no início da pandemia, resurgi das cinzas como uma fênix e decidi ser dev 👩🏽‍💻! Desde então venho me desenvolvendo e atualmente trabalho com React.js, Typescript, Styled-Components e GraphQL.
+Após ser demitida no início da pandemia, ressurgi das cinzas como uma fênix e decidi ser dev 👩🏽‍💻! Desde então venho me desenvolvendo e atualmente trabalho com React.js, Typescript, Styled-Components e GraphQL.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="400px" />
 
