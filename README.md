@@ -2,7 +2,7 @@
 
 <h1>Olá, sou Lara Capila!</h1>
 <p align="left"> 
-Após uma mudança profissional durante o início da pandemia, descobri minha paixão pela programação, especialmente pelo desenvolvimento Front-End. Decidi me tornar desenvolvedora e busquei formação na Trybe, onde em um ano avancei de iniciante a desenvolvedora júnior. <br /> <br /> Atualmente sou graduada em Análise e Desenvolvimento de Sistemas com <strong>mais de dois anos de experiência</strong> como <strong>Desenvolvedora Front-End</strong>.
+Após uma mudança profissional durante o início da pandemia, descobri minha paixão pela programação, especialmente pelo desenvolvimento Front-End. Decidi me tornar desenvolvedora e busquei formação na Trybe, onde em um ano avancei de iniciante a desenvolvedora júnior. <br /> <br /> Atualmente sou graduada em Análise e Desenvolvimento de Sistemas com <strong>3 anos de experiência</strong> como <strong>Desenvolvedora Front-End</strong>.
 </p>
 
 ### Entre em contato comigo:
